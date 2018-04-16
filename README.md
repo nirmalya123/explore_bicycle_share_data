@@ -6,12 +6,12 @@ The python code wrangles data of bike sharing of four cities, performs analysis 
 [https://in.udacity.com/course/python-foundation-nanodegree--nd002-inpy]
 
 -List of pacakges needed-
-  -Jupyter Notebook
-  -Matplotlib
-  -Numpy
+ -Jupyter Notebook
+ -Matplotlib
+ -Numpy
 
 -To run the code use Anaconda environment with the below command-
-  -conda create -n <env_name> jupyter notebook matplotlib numpy
+ -conda create -n <env_name> jupyter notebook matplotlib numpy
   
   
 
