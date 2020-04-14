@@ -3,7 +3,7 @@ The python code wrangles data of bike sharing of four cities, performs analysis 
 
 **Note- Code should not be used for personal submission if pursuing the course.**
 
-[https://in.udacity.com/course/python-foundation-nanodegree--nd002-inpy]
+https://in.udacity.com/course/python-foundation-nanodegree--nd002-inpy
 
 - List of pacakges needed
   - Jupyter Notebook
@@ -15,4 +15,4 @@ The python code wrangles data of bike sharing of four cities, performs analysis 
 
 
 
-_For final output refer to [Bike_Share_Analysis.html](Bike_Share_Analysis.html) file._
+_For final output refer to [Bike_Share_Analysis.html](https://nirmalya123.github.io/explore_bicycle_share_data/Bike_Share_Analysis.html) file._
